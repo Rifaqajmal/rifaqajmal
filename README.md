@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rifaq Ajmal 👋
 
-<!--
-**Rifaqajmal/rifaqajmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student  
+💻 Learning Programming and Web Development  
+📚 Currently studying core computer science concepts  
 
-Here are some ideas to get you started:
+## Skills
+- C Programming
+- HTML
+- CSS
+- Basic Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Age Calculator (C Language)
+- C Programming Lab Tasks
+- Basic HTML & CSS Webpages
+
+## Currently Learning
+- Data Structures
+- Web Development
+- Git & GitHub
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/rifaq-ajmal-4b5a513b3
