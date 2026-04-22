@@ -1,7 +1,7 @@
 # Hi, I'm Rifaq Ajmal 👋
 
 🎓 BS Computer Science Student  
-💻 Learning Programming and Web Development  
+💻 Learning Programming and Software Development  
 📚 Currently studying core computer science concepts  
 
 ## Skills
@@ -12,6 +12,7 @@
 
 ## Projects
 - Age Calculator (C Language)
+- Nexus File Organizer (Python)
 - C Programming Lab Tasks
 - Basic HTML & CSS Webpages
 
