@@ -1,5 +1,9 @@
 # Hi, I'm Rifaq Ajmal 👋
 
+![Rifaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifaqajmal&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaqajmal&layout=compact)
+
 🎓 BS Computer Science Student  
 💻 Learning Programming and Software Development  
 📚 Currently studying core computer science concepts  
@@ -22,4 +26,4 @@
 - Git & GitHub
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/rifaq-ajmal-4b5a513b3
+LinkedIn: https://www.linkedin.com/in/rifaq-ajmal-4b5a513b3
