@@ -9,10 +9,10 @@
 📚 Currently studying core computer science concepts  
 
 ## Skills
-- C Programming
-- HTML
-- CSS
-- Basic Problem Solving
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode" />
+</p>
 
 ## Projects
 - Age Calculator (C Language)
