@@ -13,6 +13,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode" />
 </p>
+
 ## Tools & Technologies
 - Languages: C, Python  
 - Web: HTML, CSS  
