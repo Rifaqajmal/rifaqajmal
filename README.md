@@ -15,9 +15,10 @@
 </p>
 
 ## Projects
-- Age Calculator (C Language)
-- Nexus File Organizer (Python)
-- C Programming Lab Tasks
+
+- [Nexus File Organizer](https://github.com/rifaqajmal/nexus-file-organizer) — Python desktop app that organizes files automatically with charts, themes, and folder insights  
+- [Age Calculator (C Language)](https://github.com/rifaqajmal/age-calculator) — Simple C program to calculate age using user input  
+- C Programming Lab Tasks  
 - Basic HTML & CSS Webpages
 
 ## Currently Learning
