@@ -1,9 +1,8 @@
 # Hi, I'm Rifaq Ajmal 👋
 
-
-🎓 BS Computer Science Student – Semester 6 | UET Mardan, Pakistan
-💻 Passionate about Web Development, Mobile App Development & AI
-📚 Currently focused on Web Dev, MAD & core CS concepts
+🎓 BS Computer Science Student – Semester 6 | UET Mardan, Pakistan  
+💻 Passionate about Web Development, Mobile App Development & AI  
+📚 Currently focused on Web Dev, MAD & core CS concepts  
 
 ---
 
@@ -16,27 +15,25 @@
 ---
 
 ## 🔧 Tools & Technologies
-- **Languages:** C, Python, HTML, CSS
-- **Web:** HTML5, CSS3, Responsive Design
-- **Mobile:** Android App Development (MAD)
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** C, Python, HTML, CSS  
+- **Web:** HTML5, CSS3, Responsive Design  
+- **Mobile:** Android App Development (MAD)  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## 🚀 Projects
-- [Madrassa Al-Noor Website](https://github.com/rifaqajmal/madrassa-website) — Professional bilingual (English & Urdu) website for an Islamic institute | HTML, CSS
-- [Nexus File Organizer](https://github.com/rifaqajmal/nexus-file-organizer) — Python desktop app that organizes files automatically with charts, themes, and folder insights
-- [Age Calculator (C Language)](https://github.com/rifaqajmal/age-calculator) — Simple C program to calculate age using user input
-- C Programming Lab Tasks
-- Basic HTML & CSS Webpages
+- [Madrassa Al-Noor Website](https://github.com/rifaqajmal/madrassa-website) — Professional bilingual website for an Islamic institute | HTML, CSS  
+- [Nexus File Organizer](https://github.com/rifaqajmal/nexus-file-organizer) — Python desktop app that organizes files automatically with charts and folder insights  
+- [Age Calculator (C Language)](https://github.com/rifaqajmal/age-calculator) — Simple C program to calculate age using user input  
 
 ---
 
 ## 📚 Currently Learning
-- 🌐 Web Development (HTML, CSS, JavaScript)
-- 📱 Mobile App Development (MAD)
-- 🤖 Artificial Intelligence
-- 🌿 Git & GitHub
+- 🌐 Web Development (HTML, CSS, JavaScript)  
+- 📱 Mobile App Development (MAD)  
+- 🤖 Artificial Intelligence  
+- 🌿 Git & GitHub  
 
 ---
 
