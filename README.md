@@ -1,7 +1,7 @@
 # Hi, I'm Rifaq Ajmal 👋
 
-![Rifaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifaqajmal&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaqajmal&layout=compact)
+![Rifaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifaqajmal&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaqajmal&layout=compact&theme=dark)
 
 🎓 BS Computer Science Student – Semester 6 | UET Mardan, Pakistan
 💻 Passionate about Web Development, Mobile App Development & AI
