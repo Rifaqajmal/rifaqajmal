@@ -23,6 +23,7 @@
 
 ## Currently Learning
 - Data Structures
+- Mobilr App Develepment
 - Web Development
 - Git & GitHub
 
