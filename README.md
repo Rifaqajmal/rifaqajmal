@@ -147,8 +147,11 @@ Advanced Flutter • Laravel • React.js • System Design • Clean Architectu
 ## 📫 Connect With Me
 
 💼 **Portfolio:** [rifaqajmal.github.io](https://rifaqajmal.github.io)
+
 💻 **GitHub:** [github.com/rifaqajmal](https://github.com/rifaqajmal)
+
 🔗 **LinkedIn:** [linkedin.com/in/rifaq-ajmal-4b5a513b3](https://www.linkedin.com/in/rifaq-ajmal-4b5a513b3)
+
 📧 **Email:** rifaqajmalmohmand@gmail.com
 
 ---
